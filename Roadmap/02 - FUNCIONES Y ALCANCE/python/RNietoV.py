@@ -149,3 +149,5 @@ def print_numbers(text_1, text_2) -> int:
     return count
 
 print(print_numbers('fizz','buzz'))
+
+## https://www.youtube.com/watch?v=TdITcVD64zI&t=2901s
